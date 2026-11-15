@@ -6,6 +6,6 @@ I build numerical simulation, astrodynamics, and Guidance, Navigation & Control 
 
 - **Current Work:** Extracting high-energy transient events and solar wind pickup ion acceleration from NASA MAVEN/SEP flight telemetry at UC Berkeley SSL.
 - **Core Interests:** Orbital Mechanics, Space Domain Awareness (SDA), Spacecraft GNC, Convex Trajectory Optimization, and Flight/Ground Software.
-- **Tech Stack:** Python (`NumPy`, `SciPy`, `Astropy`, `Matplotlib`), IDL, Git/GitHub, Linux, LaTeX.
+- **Tech Stack:** Python (`NumPy`, `SciPy`, `Astropy`, `Matplotlib`), MATLAB, IDL, Git/GitHub, Linux, LaTeX.
 
 📫 **Connect:** [juhani@berkeley.edu](mailto:juhani@berkeley.edu) • [LinkedIn](https://linkedin.com)
