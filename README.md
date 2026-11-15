@@ -1,6 +1,6 @@
 ### Rayan Aljuhani
-**B.S. Aerospace Engineering & Minor in Astrophysics** | UC Berkeley '29  
-KGSP Scholar | Undergraduate Researcher @ UC Berkeley Space Sciences Laboratory
+**B.S. Aerospace Engineering** | UC Berkeley '29  
+Undergraduate Researcher @ UC Berkeley Space Sciences Laboratory
 
 I build numerical simulation, astrodynamics, and Guidance, Navigation & Control (GNC) software for spaceflight applications.
 
